@@ -1,82 +1,25 @@
-# Bem-vindo! 👋
+# Repositório de Projetos e Atividades Acadêmicas — SENAI
 
-Olá! Sou **Miguel Assmann**, desenvolvedor em formação apaixonado por tecnologia e inovação.
-
-## 🎓 Sobre Mim
-
-- 🎯 Estudante de desenvolvimento de software no **SENAI**
-- 💻 Explorando linguagens como **Java**, **JavaScript** e muito mais
-- 🚀 Sempre aprendendo e melhorando minhas habilidades
-- 🌱 Comprometido com código limpo e boas práticas
-- 📍 Brasil
-
-## 📚 Projetos Principais
-
-### [SENAI](https://github.com/miguelassmann-maker/SENAI) 📖
-Repositório com os projetos e aprendizados do meu curso no SENAI. Aqui você encontrará exercícios, projetos práticos e conceitos que estou desenvolvendo.
-
-- **Linguagem:** Java
-- **Status:** Em Desenvolvimento 🔄
-- **Foco:** Fundamentos, POO, Estruturas de Dados
-
-## 🛠️ Tecnologias & Ferramentas
-
-```
-💾 Linguagens:       Java, JavaScript
-🎨 Frontend:         HTML, CSS (em breve)
-🗄️ Banco de Dados:   (em aprendizado)
-🔧 Ferramentas:      Git, GitHub, VS Code, IntelliJ IDEA
-📚 Práticas:         Clean Code, Versionamento
-```
-
-## 🎯 Atualmente Aprendendo
-
-- ✅ Fundamentos de Java
-- ✅ Programação Orientada a Objetos (POO)
-- 🔄 Estruturas de Dados
-- 🔄 Desenvolvimento de Aplicações
-- ⏳ Banco de Dados
-- ⏳ Desenvolvimento Web
-
-## 📊 Minha Jornada
-
-```
-2026 - Presente: SENAI - Curso de Desenvolvimento de Software
-```
-
-## 🤝 Colaboração & Contato
-
-- 💼 Aberto a discussões e aprendizado colaborativo
-- 📧 Fale comigo através de **Issues** ou **Discussions** nos meus repositórios
-- 🌟 Fique à vontade para explorar meu código e deixar feedback!
-
-## 🎁 Destacados
-
-- 📦 Projetos educacionais bem estruturados
-- 📖 Documentação clara e organizada
-- 💪 Código prático e aplicável
+Este repositório centraliza o versionamento de todos os projetos, aplicações práticas e exercícios desenvolvidos ao longo da formação em Desenvolvimento de Software no SENAI. O objetivo deste espaço é registrar a evolução técnico-científica, documentar as implementações curriculares e consolidar uma base sólida para o portfólio de engenharia de software.
 
 ---
 
-## 📈 Estatísticas Rápidas
+## 🛠️ Ambiente de Desenvolvimento e Tecnologias
 
-- 📦 Repositórios: 3 públicos
-- 🎓 Dedicado ao aprendizado contínuo
-- 💡 Entusiasmado com novos desafios
+A infraestrutura técnica utilizada para o design e a execução dos projetos compreende:
 
-## ✨ Filosofia
-
-> *"O melhor código é aquele que você consegue entender e manter. O melhor aprendizado é aquele que você compartilha."*
+* **Linguagem de Programação:** Java
+* **Ambiente de Desenvolvimento Integrado (IDE):** IntelliJ IDEA
+* **Sistema de Controle de Versão:** Git e plataforma GitHub
 
 ---
 
-### 🚀 Vamos Conectar!
+## 📁 Arquitetura do Repositório
 
-Explore meus repositórios, aprenda junto comigo e não hesite em colaborar ou sugerir melhorias.
+A organização dos diretórios e arquivos segue a estrutura padronizada de projetos Java:
 
-**Obrigado por visitar! 🙏**
-
----
-
-*Última atualização: Maio de 2026*
-*Mantido com ❤️ por Miguel Assmann*
+```text
+├── .idea/          # Arquivos de configuração interna da IDE (IntelliJ)
+├── src/            # Código-fonte contendo as classes, pacotes e implementações em Java
+├── .gitignore      # Diretivas de exclusão para arquivos redundantes ou locais
+└── README.md       # Documentação técnica principal do repositório
